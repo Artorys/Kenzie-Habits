@@ -17,8 +17,8 @@ O objetivo era realizar  login na aplicação para poder ter acesso a criação 
 crie uma pasta e clone o repositório.
 
 Executa o aplicativo no modo de desenvolvimento com a extensão do visual studio code: 
-* Live Server
-* Abra http://localhost:3000 para visualizá-lo em seu navegador.
+Live Server
+Abra http://localhost:3000 para visualizá-lo em seu navegador.
 
 Você irá prescisar de uma conta para utilizar a aplicação: 
 
