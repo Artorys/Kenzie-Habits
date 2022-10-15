@@ -18,6 +18,7 @@ crie uma pasta e clone o repositório.
 
 Executa o aplicativo no modo de desenvolvimento com a extensão do visual studio code: 
 Live Server
+<br>
 Abra http://localhost:3000 para visualizá-lo em seu navegador.
 
 Você irá prescisar de uma conta para utilizar a aplicação: 
