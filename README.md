@@ -24,7 +24,7 @@ Abra http://localhost:3000 para visualizá-lo em seu navegador.
 Você irá prescisar de uma conta para utilizar a aplicação: 
 
 Conta utilizada pra logar-
-* Login : grupo1Guilherme@mail.com 
+* Login : <p>grupo1Guilherme@mail.com</p>
 * senha : 53a4dc66d4638227f36566c996f3969f
 
 ### 📋 Pré-requisitos
