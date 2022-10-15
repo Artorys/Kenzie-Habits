@@ -8,7 +8,7 @@
 
 # Kenzie-Habit
 
-Deploy : https://kenziehubtypescript.vercel.app
+Deploy : https://cuddly-engine-ff079d9f.pages.github.io/index.html
  
 O objetivo era realizar  login na aplicação para poder ter acesso a criação de hábitos,poder  edita-los e exclui-los quando achar necessário,podendo alterar o perfil  logado,filtrar os hábitos e também o botão de deslogar usuário.
 
