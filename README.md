@@ -31,7 +31,7 @@ Conta utilizada pra logar-
 
 Ambiente de desenvolvimento(IDE) - Visual Studio Code
 
-Live Server - Extensão para o Visual Studio Code(Inicie um servidor local de desenvolvimento com recurso de recarga ao vivo para páginas estáticas e dinâmicas)
+<a href = "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a> - Extensão para o Visual Studio Code(Inicie um servidor local de desenvolvimento com recurso de recarga ao vivo para páginas estáticas e dinâmicas)
 
 ## 🛠️ Construído com
 
