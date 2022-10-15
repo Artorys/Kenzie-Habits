@@ -17,7 +17,7 @@ O objetivo era realizar  login na aplicação para poder ter acesso a criação 
 crie uma pasta e clone o repositório.
 
 Executa o aplicativo no modo de desenvolvimento com a extensão do visual studio code: 
-Live Server
+<a href = "https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer">Live Server</a>
 <br>
 Abra http://localhost:3000 para visualizá-lo em seu navegador.
 
